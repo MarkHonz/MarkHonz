@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mark from Ohio. I'm a self taught developer who is passionate about learning new ways to solve problems. 
+I'm Mark from Ohio. I'm a self taught developer who is passionate about learning and finding new ways to solve problems. 
 
 ![MarkHonz's github stats](https://github-readme-stats.vercel.app/api?username=MarkHonz)
 
