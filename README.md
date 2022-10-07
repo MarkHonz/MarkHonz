@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mark from Ohio, a self taught developer who is passionate about learning and finding new ways to solve problems.  I enjoy creating professional websites that exceed customer expectations.
+I'm Mark from Youngstown, Ohio, a self taught developer who is passionate about learning and finding new ways to solve problems.  I enjoy creating professional websites that exceed customer expectations.
 
 Skills: REACT / JS / TS / EXPRESS.JS / HTML / CSS / POSTGRES
 
